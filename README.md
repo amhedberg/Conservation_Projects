@@ -5,4 +5,4 @@ This respository is a work in progress and contains my data science projects (ED
 
 2. [New York State Biodiversity](https://www.kaggle.com/amhedberg/ny-biodiversity) (data viz of Asteraceae and Frogs & Toads)
 
-3. [Forest Type Classification](https://www.kaggle.com/amhedberg/forest-types)
+3. [Forest Type Classification](https://www.kaggle.com/amhedberg/forest-types) (a work in progress)
