@@ -7,4 +7,4 @@ This respository is a work in progress and contains my data science (EDA, data v
 
 3. [Forest Type Classification](https://www.kaggle.com/amhedberg/forest-types) (a work in progress)
 
-4. Strategic planning workshop for [Hungry World Farm](https://hungryworldfarm.com): ![Workshop Agenda & Notes] *to be added*
+4. Strategic planning workshop for [Hungry World Farm](https://hungryworldfarm.com): [Workshop Agenda & Notes](https://github.com/amhedberg/Conservation_Projects/blob/master/HWF_2019_11.pdf)
